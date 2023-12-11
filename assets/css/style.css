@@ -544,3 +544,10 @@ textarea {
     }
 
 }
+
+
+@media (max-width:1000px){
+#resume .resume-container .card{
+height:300px
+}
+}
